@@ -1,1 +1,1 @@
-# Co-occurring-Object-Detection-in-Open-Set-Co-ODOS-
+# Co-occurring Object Detection in Open Set (Co-ODOS)
